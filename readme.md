@@ -6,6 +6,9 @@
 - **BRYAN XAVIER FLORENTINO MONTERO** (24-0462)
 - **JOSE JACOBO RESTREPO CEBALLOS** (23-0335)
 
+**Acceso en siguiente enlace:**
+https://gemuna-do.web.app/
+
 # GEMUNA - Sistema de Gestión de Museos Nacional
 
 Un sistema completo de gestión para museos desarrollado con React, TypeScript y Supabase, diseñado para administrar colecciones, visitas, mantenimiento y generar reportes detallados.
